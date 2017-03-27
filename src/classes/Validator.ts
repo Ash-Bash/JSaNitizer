@@ -1,9 +1,9 @@
 
-export class Validator {
+abstract class IValidator {
 
-  constructor() {
-    
-  }
+}
+
+export class Validator extends IValidator {
 
   static IsJSONFileSafe(filename: String) : boolean {
     return false;

@@ -1,9 +1,9 @@
 
-export class Sanitizer {
+abstract class ISanitizer {
 
-  constructor() {
-    
-  }
+}
+
+export class Sanitizer extends ISanitizer {
 
     // REMOVE FUNCTIONS SECTION
   static removeAllItemsInJSONFile(filename: string) : Object {

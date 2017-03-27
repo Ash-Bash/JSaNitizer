@@ -1,9 +1,9 @@
 
-export class Locator {
+abstract class ILocator {
 
-  constructor() {
-    
-  }
+}
+
+export class Locator extends ILocator {
 
   static findAllStringsInJSONFile(filename: String) : string {
     return 'UNKOWN';
