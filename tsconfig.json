@@ -1,0 +1,32 @@
+{
+
+  "compileOnSave": false,
+
+  "compilerOptions": {
+    "declaration": false,
+    "jsx": "react",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+
+  },
+  "files": [
+        "./src/main.ts",
+        "./src/classes/Locator.ts",
+        "./src/classes/Optimizer.ts",
+        "./src/classes/Sanitizer.ts",
+        "./src/classes/Validator.ts"
+    ],
+  "include": [
+        "src/**/*"
+    ],
+  "exclude": [
+
+    "node_modules"
+
+  ]
+
+} 
