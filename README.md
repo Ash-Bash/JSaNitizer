@@ -32,3 +32,5 @@ Comming Soon!
 * Start Documentation on Library API's.
 * Mention Preferred Development Style / Pattern.
 * Promote the Library to Developers (Once Working in a more Beta Stage).
+* Implement a Release System.
+* Once 1.x Development has completed start designing 2.x on a 2.x Branch.
