@@ -21,3 +21,14 @@ npm run dev
 // or
 npm run build
 ```
+
+### Documentation
+Comming Soon!
+
+### Todo List
+
+* Make a Wiki.
+* Get Library Function working.
+* Start Documentation on Library API's.
+* Mention Preferred Development Style / Pattern.
+* Promote the Library to Developers (Once Working in a more Beta Stage).
