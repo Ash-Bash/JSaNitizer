@@ -22,6 +22,15 @@ npm run dev
 npm run build
 ```
 
+### Possible Uses for this JS Web Library
+
+* Electron
+* Web Applications
+* Web Sites
+* Web Services
+* Node.js
+* Other JavaScript Projects
+
 ### Documentation
 Comming Soon!
 
